@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Flight Search</string>
+    <string name="arrow">Next Arrow</string>
+    <string name="looking_for_a_flight">Looking for a Flight?</string>
+    <string name="flight_search_app_icon">Flight Search App Icon</string>
+    <string name="welcome_to_flight_search_app">Welcome to Flight Search App!</string>
+    <string name="favorite_icon">Favorite Icon</string>
+    <string name="depart">DEPART</string>
+    <string name="dept_code">FCO</string>
+    <string name="dept_name">Leonardo da Vinci International Airport</string>
+    <string name="arr_name">Sheremetyevo - A.S. Pushkin International</string>
+    <string name="arr_code">SVO</string>
+    <string name="arrive">ARRIVE</string>
+    <string name="flights_from">Flights from %1$s</string>
+    <string name="no_results">No flights found</string>
+    <string name="favorite_flights">Favorite Flights</string>
+</resources>
